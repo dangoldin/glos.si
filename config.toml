@@ -1,4 +1,4 @@
-baseURL = "http://glos.si/"
+baseURL = "https://glos.si/"
 languageCode = "en-us"
 title = "Glossi"
 theme = "minimal"
